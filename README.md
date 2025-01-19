@@ -1,7 +1,3 @@
-Here's a draft for your GitHub README with the required sections and emojis:
-
----
-
 ## Hi there 👋
 
 I'm currently working as a **Tech Lead / Engineering Manager** and **Architect**, leading teams across a variety of projects in **fintech** and **crypto**. I also handle legacy systems and work on **migrations** to modern tech stacks.
