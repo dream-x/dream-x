@@ -16,3 +16,5 @@ My main expertise lies in **rapid project development** — taking projects from
 In my free time, I work on my **homelab** at home, **deploying various tools**, running **tests**, engaging in **chaos engineering**, and exploring new **utilities, tools**, and **programming languages**. 
 
 Currently, I’m also heavily focused on **researching various LLM models for business**, testing different **model defense methods**, and **identifying potential attacks** on these models.
+I have experience in building systems in cloud infrastructure using Go, Java, Python, and Ruby.
+
