@@ -13,4 +13,6 @@ My main expertise lies in **rapid project development** — taking projects from
 - 😄 Pronouns: **he/him**.
 - ⚡ Fun fact: **I enjoy solving complex problems and building innovative solutions for both startups and large-scale enterprises**.
 
-In my free time, I work on my **homelab** at home, **deploying various tools**, running **tests**, engaging in **chaos engineering**, and exploring new **utilities, tools**, and **programming languages**.
+In my free time, I work on my **homelab** at home, **deploying various tools**, running **tests**, engaging in **chaos engineering**, and exploring new **utilities, tools**, and **programming languages**. 
+
+Currently, I’m also heavily focused on **researching various LLM models for business**, testing different **model defense methods**, and **identifying potential attacks** on these models.
